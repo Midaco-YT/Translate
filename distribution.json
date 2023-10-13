@@ -1,0 +1,14 @@
+{
+  "files": [
+    {
+      "url": "https://raw.githubusercontent.com/Midaco-YT/Translate/main/fr_FR.json",
+      "md5": "fa459091662ad1760fc9596272a405be",
+      "locale": "fr_FR"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Midaco-YT/Translate/main/en_US.json",
+      "md5": "a9100183516f100040f522a9cab9d9bf",
+      "locale": "en_US"
+    }
+  ]
+}
